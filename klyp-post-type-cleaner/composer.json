@@ -1,0 +1,32 @@
+{
+  "name": "klyp/klyp-post-type-cleaner",
+  "description": "This plugin allows you to clean your database by deleting obselete post types.",
+  "license": "GPL2",
+  "authors": [
+    {
+      "name": "Klyp Devteam",
+      "email": "devteam@klyp.co",
+      "homepage": "https://klyp.co"
+    },
+    {
+      "name": "Nyco Agung",
+      "email": "nyco@klyp.co",
+      "role": "Developer"
+    }
+  ],
+  "keywords": ["wordpress", "plugin", "post type", "cleaner"],
+  "homepage": "https://klyp.co/",
+  "type": "wordpress-plugin",
+  "support": {
+    "issues": "https://github.com/klyp/wp-plugin-post-type-cleaner/issues"
+  },
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "suggest": {
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
