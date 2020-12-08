@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: Klyp Post Type Cleaner
- * Plugin URI: https://klyp.co
- * Description: This plugin allows you to clean your database by deleting obselete post types.
+ * Plugin URI: https://github.com/klyp/klyp-post-type-cleaner
+ * Description: This plugin allows you to clean your database by deleting obsolete post types.
  * Version: 1.0.0
  * Author: Klyp
  * Author URI: https://klyp.co
