@@ -17,7 +17,6 @@
     }
   ],
   "keywords": ["wordpress", "plugin", "post type", "cleaner"],
-  "homepage": "https://klyp.co/",
   "support": {
     "issues": "https://github.com/klyp/klyp-post-type-cleaner/issues"
   },
